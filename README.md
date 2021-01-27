@@ -1,4 +1,4 @@
-# time_picker
+# timePicker
 
 A new Flutter application.
 
